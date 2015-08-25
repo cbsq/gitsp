@@ -1,3 +1,3 @@
-Git is a version contorl system.
+Git is a distuibuted version contorl system.
 Git is free software. 
 
